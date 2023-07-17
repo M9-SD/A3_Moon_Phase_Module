@@ -1,3 +1,16 @@
+
+comment "
+	Script Name:
+	Moon Phase Module by M9-SD
+
+	Description:
+	(AKA: Date Changer) Allows the zeus to change the date and time with regards to the lunar cycle.
+
+	Github/License:
+	https://github.com/M9-SD/A3_Moon_Phase_Module/blob/main/LICENSE
+";
+
+
 M9SD_fnc_zeusComp_changeDateMoonPhaseModule = {
 	M9SD_fnc_zeusCompHelipadCleanup = {
 		comment "Determine if execution context is composition and delete the helipad.";
